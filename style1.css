@@ -31,7 +31,7 @@ body {
   background: 
         linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), /* Darker overlay */
         url('WhatsApp Image 2026-02-09 at 7.29.18 PM.jpeg'); /* Background image */
-  background-size: cover; /* Cover the entire page */
+  background-size: contain; /* Cover the entire page */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent tiling */}
 
